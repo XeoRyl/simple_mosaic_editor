@@ -1,0 +1,6 @@
+pillow
+numpy
+pillow-avif-plugin
+ttkbootstrap
+imagecodecs
+pyinstaller
